@@ -325,12 +325,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/iansltx/api-ai-bridge.git",
-                "reference": "30110e07708ee952215ae8e870df17afb738ed48"
+                "reference": "f5fe7b6dee562cab46323daab92b889d96ec3276"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/iansltx/api-ai-bridge/zipball/30110e07708ee952215ae8e870df17afb738ed48",
-                "reference": "30110e07708ee952215ae8e870df17afb738ed48",
+                "url": "https://api.github.com/repos/iansltx/api-ai-bridge/zipball/f5fe7b6dee562cab46323daab92b889d96ec3276",
+                "reference": "f5fe7b6dee562cab46323daab92b889d96ec3276",
                 "shasum": ""
             },
             "require": {
@@ -370,7 +370,7 @@
                 "bot",
                 "natural language"
             ],
-            "time": "2017-09-06 03:49:35"
+            "time": "2017-09-07T02:40:15+00:00"
         },
         {
             "name": "iansltx/pnwphp-2017-schedule-client",
@@ -419,7 +419,7 @@
                 "Conference",
                 "PNWPHP"
             ],
-            "time": "2017-09-06 03:43:44"
+            "time": "2017-09-06T03:43:44+00:00"
         },
         {
             "name": "nikic/fast-route",
